@@ -29,9 +29,7 @@ To track my progress toward industry-recognized certifications, you can view my 
 ### Contact
 I am always open to connecting with fellow professionals in the public safety or cybersecurity sectors.
 
-* **Professional Inquiries:** [drew@drewturner.io](mailto:drew@drewturner.io)
-* **Security & Infrastructure:** [security@drewturner.io](mailto:security@drewturner.io)
-* **Website:** [drewturner.io](https://drewturner.io)
+Send me a message through the main page (https://drewturner.io) at the bottom.
 
 ---
 *© 2026 Ellis Andrew Turner. All rights reserved.*
