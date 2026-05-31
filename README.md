@@ -1,5 +1,5 @@
 # Ellis Andrew (Drew) Turner
-## Communication Supervisor | Flight Coordinator | Aspiring Cybersecurity Professional
+## Communication Supervisor | Flight Coordinator | Paramedic | Aspiring Cybersecurity Professional
 
 [![Website](https://img.shields.io/badge/Website-drewturner.io-blue.svg)](https://drewturner.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://linkedin.com)
