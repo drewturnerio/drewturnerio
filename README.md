@@ -1,5 +1,5 @@
 # Ellis Andrew (Drew) Turner
-## Communication Supervisor | Flight Coordinator | Cybersecurity Professional
+## Communication Supervisor | Flight Coordinator | Aspiring Cybersecurity Professional
 
 [![Website](https://img.shields.io/badge/Website-drewturner.io-blue.svg)](https://drewturner.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://linkedin.com)
@@ -20,6 +20,11 @@ My work is driven by a commitment to operational efficiency, digital privacy, an
 This repository powers my personal professional site. For detailed documentation on my technical labs, security research, and certification journey, please visit my dedicated lab repository:
 
 👉 **[View My Cybersecurity Lab Portfolio](https://github.com/drewturnerio/cybersecurity-labs)**
+
+### Certifications & Professional Development
+To track my progress toward industry-recognized certifications, you can view my certification path here:
+
+👉 **[View Certification Status & Progress](https://github.com/drewturnerio/cybersecurity-labs/blob/main/certs/certifications.md)**
 
 ### Contact
 I am always open to connecting with fellow professionals in the public safety or cybersecurity sectors.
