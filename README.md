@@ -24,7 +24,7 @@ This repository powers my personal professional site. For detailed documentation
 ### Certifications & Professional Development
 To track my progress toward industry-recognized certifications, you can view my certification path here:
 
-👉 **[View Certification Status & Progress](https://github.com/drewturnerio/cybersecurity-labs/blob/main/certs/certifications.md)**
+👉 **[View Certification Status & Progress](https://github.com/drewturnerio/cybersecurity-labs/certs/certifications.md)**
 
 ### Contact
 I am always open to connecting with fellow professionals in the public safety or cybersecurity sectors.
