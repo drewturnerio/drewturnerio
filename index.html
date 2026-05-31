@@ -76,11 +76,22 @@
 <section id="contact">
     <h3>Contact</h3>
     <p>I am always open to connecting with fellow professionals in the public safety or cybersecurity sectors.</p>
-    <ul>
-        <li>Professional Inquiries: <a href="mailto:drew@drewturner.io">drew@drewturner.io</a></li>
-        <li>Security & Infrastructure: <a href="mailto:security@drewturner.io">security@drewturner.io</a></li>
-        <li>Website: <a href="https://drewturner.io">drewturner.io</a></li>
-    </ul>
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mbdbeaae"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 </section>
 </body>
 </html>
